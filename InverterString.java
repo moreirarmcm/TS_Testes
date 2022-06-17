@@ -1,7 +1,13 @@
 package EstudoJava;
 
 import java.util.Scanner;
-
+/**
+ * "Invertendo Textos"
+ * O programa recebe uma string e, usando um laço for-each, inverte a posição de cada letra da String. E então imprime a string invertida. 
+ * 
+ * @author Renan
+ *
+ */
 public class InverterString {
 
 	public static void main(String[] args) {
